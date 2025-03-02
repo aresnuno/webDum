@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "esbuild": ">0.24.0",
     "@tailwindcss/vite": "^4.0.9",
     "@tiptap/extension-code": "^2.11.5",
     "@tiptap/starter-kit": "^2.11.5",
